@@ -1,0 +1,13 @@
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/bin/Debug/netcoreapp2.1/bikeShopApi.deps.json
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/bin/Debug/netcoreapp2.1/bikeShopApi.runtimeconfig.json
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/bin/Debug/netcoreapp2.1/bikeShopApi.runtimeconfig.dev.json
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/bin/Debug/netcoreapp2.1/bikeShopApi.dll
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/bin/Debug/netcoreapp2.1/bikeShopApi.pdb
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.csproj.CoreCompileInputs.cache
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.RazorAssemblyInfo.cache
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.RazorAssemblyInfo.cs
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.AssemblyInfoInputs.cache
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.AssemblyInfo.cs
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.RazorTargetAssemblyInfo.cache
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.dll
+/Users/jah/GraduateProject/bikeShopApi/bikeShopApi/obj/Debug/netcoreapp2.1/bikeShopApi.pdb
